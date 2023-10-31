@@ -1,0 +1,16 @@
+.card{
+    padding: 100px;
+    background-color: beige;
+    border-radius: 5px;
+    
+}
+.card-image{
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px; 
+    position: relative;
+    
+
+    
+
+}
